@@ -1,2 +1,2 @@
-[200~#!/bin/bash
-tr -d 'cc'
+#!/bin/bash
+tr "A" "Z" | tr "c" "e"
