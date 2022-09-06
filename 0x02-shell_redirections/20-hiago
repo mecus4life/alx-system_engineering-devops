@@ -1,2 +1,2 @@
 [200~#!/bin/bash
-tr -d 'cC'
+tr -d 'cc'
